@@ -24,7 +24,7 @@ def playVideo(video, total_frames):
     os.system("color F0")
     os.system("mode con: cols=233 lines=68")
 
-    timer = fpstimer.FPSTimer(60)
+    timer = fpstimer.FPSTimer(30)
     frame_num = 0
 
     while frame_num < total_frames:
