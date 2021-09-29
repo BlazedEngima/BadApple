@@ -1,7 +1,7 @@
 # BadApple
 A python program that plays the bad apple video in the terminal
 
-This is a ddumb fun personal project done during the holidays
+This is a dumb fun personal project done during the holidays
 
 This program is not original and is highly inspired by CalvinLocke's version as well as Code Bear's ASCII art video
 
